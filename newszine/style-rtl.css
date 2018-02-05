@@ -1,0 +1,17 @@
+textarea{padding-right:3px;}
+.main-navigation{float:right;}
+.main-navigation ul{padding-right:0;}
+.main-navigation li{float:right;}
+.main-navigation ul ul{float:right;right:-999em;}
+.main-navigation ul ul ul{right:-999em;}
+.main-navigation ul li:hover > ul,.main-navigation ul li.focus > ul{right:auto;}
+.main-navigation ul ul li:hover > ul,.main-navigation ul ul li.focus > ul{right:100%;}
+.comment-navigation .nav-previous,.posts-navigation .nav-previous,.post-navigation .nav-previous{float:right;}
+.comment-navigation .nav-next,.posts-navigation .nav-next,.post-navigation .nav-next{float:left;text-align:left;}
+.screen-reader-text:focus{right:5px;}
+.alignleft{float:right;margin-left:1.5em;}
+.alignright{float:left;margin-right:1.5em;}
+.aligncenter{margin-right:auto;margin-left:auto;}
+.wp-caption img[class*=\"wp-image-\"]{margin-right:auto;margin-left:auto;}
+.gallery .gallery-item{margin-left:0 !important;}
+.sidebar .block ul{padding-right:0;padding:15px 15px 0 15px;}

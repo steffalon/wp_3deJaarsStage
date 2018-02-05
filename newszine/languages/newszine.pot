@@ -1,0 +1,536 @@
+# Copyright (C) 2016 oceanwebthemes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Newszine 1.1.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2015-09-16 19:02:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: oceanwebthemes <info@oceanwebthemes.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:33
+#@ newszine
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:37
+#@ newszine
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+
+#: comments.php:32
+#, php-format
+#newszine
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:41
+#: comments.php:68
+#newszine
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:44
+#: comments.php:71
+#newszine
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:45
+#: comments.php:72
+#newszine
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:85
+#newszine
+msgid "Comments are closed."
+msgstr ""
+
+
+#: footer.php:55
+#newszine
+msgid " Copyright &copy; 2016.Your Company"
+msgstr ""
+
+#: footer.php:58
+#, php-format
+#newszine
+msgid "Developed: %1$s by %2$s."
+msgstr ""
+
+#: footer.php:58
+#, php-format
+#newszine
+msgid "Oceanweb Themes"
+msgstr ""
+
+#: front-page.php:74
+#: front-page.php:147
+#: front-page.php:208
+#: front-page.php:269
+#: template-parts/content-search.php:31
+#: template-parts/content-single.php:55
+#: template-parts/content-single.php:151
+#: template-parts/content.php:39
+#, php-format
+#newszine
+msgid "ago"
+msgstr ""
+
+#: fullwidth.php:74
+#: template-parts/content-page.php:59
+#newszine
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:52
+#newszine
+msgid "Primary"
+msgstr ""
+
+#: functions.php:118
+#newszine
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:128
+#newszine
+msgid "Front Page Widget Area"
+msgstr ""
+
+#: functions.php:139
+#newszine
+msgid "Footer Area Left"
+msgstr ""
+
+#: functions.php:149
+#newszine
+msgid "Footer Area Right"
+msgstr ""
+
+#: functions.php:158
+#newszine
+msgid "Footer Area Middle Section One"
+msgstr ""
+
+
+#: functions.php:167
+#newszine
+msgid "Footer Area Middle Section Two"
+msgstr ""
+
+#: functions.php:176
+#newszine
+msgid "Header Advertisement"
+msgstr ""
+
+#: functions.php:185
+#newszine
+msgid "Single Page Advertisement"
+msgstr ""
+
+#: functions.php:194
+#newszine
+msgid "Single Post Advertisement"
+msgstr ""
+
+
+#: header.php:34
+#newszine
+msgid "Breaking News"
+msgstr ""
+
+
+#: header.php:137
+#newszine
+msgid "Main Menu"
+msgstr ""
+
+#: header.php:144
+#newszine
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+#newszine
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: search.php:37
+#, php-format
+#newszine
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:2
+#, php-format
+#newszine
+msgid "Search for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:33
+#newszine
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:38
+#, php-format
+#newszine
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:42
+#newszine
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:47
+#newszine
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+
+#: template-parts/content-page.php:71
+#newszine
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content-page.php:71
+#: template-parts/content-single.php:76
+#newszine
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content-single.php:120
+#newszine
+msgid "Related Posts"
+msgstr ""
+
+#: template-parts/content-single.php:153
+#: template-parts/content.php:46
+#: template-parts/content-search.php:37
+#: widget/latest.php:195
+#: widget/newszine.php:230
+#: widget/newszine.php:330
+#: widget/widgets.php:196
+#: widget/widgets.php:423
+#newszine
+msgid "Read More"
+msgstr ""
+
+#: widget/latest.php:21
+#newszine
+msgid "Home Page Latest Posts Column"
+msgstr ""
+
+#: widget/latest.php:23
+#: widget/widgets.php:20
+#: widget/widgets.php:247
+#newszine
+msgid "Show posts selected category"
+msgstr ""
+
+#: widget/latest.php:52
+#: widget/newszine.php:56
+#: widget/widgets.php:49
+#: widget/widgets.php:276
+#newszine
+msgid "From Recent Posts"
+msgstr ""
+
+#: widget/latest.php:49
+#: widget/newszine.php:53
+#: widget/widgets.php:46
+#newszine
+msgid "'Select Category"
+msgstr ""
+
+#: widget/latest.php:70
+#: widget/newszine.php:75
+#: widget/widgets.php:67
+#newszine
+msgid "Select Number of Post"
+msgstr ""
+
+#: widget/latest.php:80
+#: widget/newszine.php:95
+#: widget/widgets.php:77
+#: widget/widgets.php:304
+#newszine
+msgid "Note: Some of the features only work in "Home main content area" due to minimum width in other areas."
+msgstr ""
+
+#: widget/latest.php:150
+#newszine
+msgid "Latest"
+msgstr ""
+
+#: widget/newszine.php:18
+#newszine
+msgid "Home Page Half Posts Column"
+msgstr ""
+
+#: widget/newszine.php:20
+#newszine
+msgid "Show posts selected category"
+msgstr ""
+
+#: widget/newszine.php:43
+#newszine
+msgid "Layout Left"
+msgstr ""
+
+#: widget/newszine.php:43
+#newszine
+msgid "Layout Right"
+msgstr ""
+
+#: widget/newszine.php:85
+#newszine
+msgid "Select Layout"
+msgstr ""
+
+
+#: widget/widgets.php:18
+#@ newszine
+msgid "Home Page 100% Posts Column"
+msgstr ""
+
+#: widget/widgets.php:245
+#@ newszine
+msgid "Home Page Horizontal Posts Column"
+msgstr ""
+
+#: widget/widgets.php:375
+#: widget/newszine.php:182
+#: widget/newszine.php:275
+#@ newszine
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/customizer.php:41
+#@ newszine
+msgid "Top Header"
+msgstr ""
+
+#: inc/customizer.php:42
+#@ newszine
+msgid "Configure Breaking News type and Social icons."
+msgstr ""
+
+#: inc/customizer.php:54
+#@ newszine
+msgid "Show or Hide Breaking News"
+msgstr ""
+
+#: inc/customizer.php:69
+#: inc/customizer.php:261
+#: inc/customizer.php:275
+#: inc/customizer.php:289
+#@ newszine
+msgid "Choose Category"
+msgstr ""
+
+
+#: inc/customizer.php:85
+#@ newszine
+msgid "Show or Hide Social Icons"
+msgstr ""
+
+#: inc/customizer.php:98
+#@ newszine
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:112
+#@ newszine
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:126
+#@ newszine
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer.php:140
+#@ newszine
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer.php:154
+#@ newszine
+msgid "Skype Username"
+msgstr ""
+
+#: inc/customizer.php:167
+#@ newszine
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer.php:180
+#@ newszine
+msgid "Sound Cloud"
+msgstr ""
+
+#: inc/customizer.php:193
+#@ newszine
+msgid "WhatsApp User"
+msgstr ""
+
+#: inc/customizer.php:206
+#@ newszine
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer.php:220
+#@ newszine
+msgid "Slider Categories"
+msgstr ""
+
+#: inc/customizer.php:221
+#@ newszine
+msgid "Select the Slider Category for Homepage."
+msgstr ""
+
+#: inc/customizer.php:223
+#@ newszine
+msgid "Show or Hide Main Slider"
+msgstr ""
+
+#: inc/customizer.php:247
+#@ newszine
+msgid "Choose Main slider category"
+msgstr ""
+
+#: inc/customizer.php:302
+#: inc/customizer.php:315
+#@ newszine
+msgid "Default Image"
+msgstr ""
+
+#: inc/customizer.php:303
+#@ newszine
+msgid "Display Default Images."
+msgstr ""
+
+
+#: inc/customizer.php:326
+#@ newszine
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:327
+#@ newszine
+msgid "Footer Settings Section."
+msgstr ""
+
+#: inc/customizer.php:334
+#@ newszine
+msgid "Copyright &copy; 2016.Your Company."
+msgstr ""
+
+#: inc/customizer.php:339
+#@ newszine
+msgid "Copyright text"
+msgstr ""
+
+#: inc/customizer.php:351
+#@ newszine
+msgid "Theme Layout"
+msgstr ""
+
+#: inc/customizer.php:352
+#@ newszine
+msgid "Theme Layout Option"
+msgstr ""
+
+#: inc/customizer.php:357
+#@ newszine
+msgid "Front Page Sidebar"
+msgstr ""
+
+#: inc/customizer.php:367
+#: inc/customizer.php:392
+#: inc/customizer.php:421
+#: inc/customizer.php:440
+#: inc/customizer.php:465
+#: inc/customizer.php:489
+#@ newszine
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer.php:372
+#: inc/customizer.php:397
+#: inc/customizer.php:421
+#: inc/customizer.php:445
+#: inc/customizer.php:470
+#: inc/customizer.php:494
+#@ newszine
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:373
+#: inc/customizer.php:398
+#: inc/customizer.php:422
+#: inc/customizer.php:446
+#: inc/customizer.php:471
+#: inc/customizer.php:495
+#@ newszine
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:374
+#: inc/customizer.php:399
+#: inc/customizer.php:423
+#: inc/customizer.php:447
+#: inc/customizer.php:471
+#: inc/customizer.php:496
+#@ newszine
+msgid "None"
+msgstr ""
+
+#: inc/customizer.php:382
+#@ newszine
+msgid "Category Sidebar"
+msgstr ""
+
+#: inc/extra.php:126
+#@ newszine
+msgid "Articles posted by"
+msgstr ""
+
+#: inc/extra.php:129
+#@ newszine
+msgid "Error 404"
+msgstr ""
+
+#: inc/extra.php:134
+#@ newszine
+msgid "Page"
+msgstr ""
+
+#: inc/extra.php:180
+#@ newszine
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#: inc/extra.php:267
+#@ newszine
+msgid "Select"
+msgstr ""
+
+#: inc/extra.php:336
+#@ newszine
+msgid "edit"
+msgstr ""

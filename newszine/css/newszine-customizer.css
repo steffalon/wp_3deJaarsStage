@@ -1,0 +1,23 @@
+/**
+ * Customizer Custom CSS
+ */
+.newszine-ads {
+  background-color: #666666;
+  text-align: center;
+}
+.newszine-ads .button {
+    background-color: #666666;
+    border: 1px solid #FFF;
+    border-radius: 4px;
+    color: #ffffff;
+    margin: 15px 0;
+    transition: all 0.5s ease-in-out 0s;
+    -webkit-transition:all 0.5s ease-in-out 0s;
+    -moz-transition:all 0.5s ease-in-out 0s;
+}
+.newszine-ads .button:hover,
+.newszine-ads .button:focus
+{
+  background-color: #666666 ;
+  color: #ffffff;
+}

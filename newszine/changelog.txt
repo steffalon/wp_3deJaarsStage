@@ -1,0 +1,109 @@
+Changelog
+
+Tested up to: 4.9
+
+Version 1.0.0
+i)   	Intial version Release
+
+Version 1.0.1
+i)      Added Custom Widget for Home Page Layout.	
+    
+Version 1.0.2
+i)     Added Default Image option in Customizer.
+ii)    Removed Unused Function.
+iii)   Sidebar Option For Front Page is added.
+
+Version 1.0.3
+i)    Theme Advertisement section is removed.
+ii)   Added translation-ready tag.
+iii)  Fancybox Script is removed.
+iv)   Escaping issues is fixed.
+v)	  fix the issues of custoom widget.	
+vi)   Removed footer logo and description from customizer.
+vii)  Removed unused files
+
+Version 1.0.6
+i) Version name changed to 1.0.6 to avoid the SVN error
+
+Version 1.0.7
+i)   Screenshot is updated.
+ii)  Added tag those are supported by our theme.
+iii) Function Prefix fixed to newszine
+iv)  jquery enqueue issues is fixed.
+
+Version 1.0.8
+i)   Fix the issues  of translation.
+
+Version 1.0.9
+i)   Fix the issues  of translation.
+ii)  Remove Custom text control
+iii) Function Prefix fixed.
+iv)  Fix issues of escaping.
+
+Version 1.1.0
+i)   Added update to pro button
+ii)  Minor change in Screenshot
+iii) Minor CSS Fixes
+iv)  Link to Documentation and Demo
+
+Version 1.1.1
+i) version Jump
+
+Version 1.1.2
+i)  Fix the issuese of sub categories.
+
+Version 1.1.3
+i)  Change screenshot.
+ii) Fix the issuese of latest widget.
+iii) Fixed css issues on widgets.
+
+Version 1.1.4
+i)  	Fix the issuese of video section in sidebar.
+ii) 	Fix the issuese of image section in sidebar.
+iii) 	Added option for Developed By Text  in footer.
+iv) 	Added option to enable/disable the category in main Slider.
+v) 		Added option to enable/disable the published date and author.
+vi)     Added option to enable/disable Developed By text.
+
+Version 1.1.5
+i)  	Fix the  css issuese.
+
+Version 1.1.6
+i)  	Fix the  css issuese.
+
+Version 1.1.7
+i)  	Fix the  css issuese.
+ii)		Added enable/disable option for search option in header section.
+iii)	Added enable/disable option for scroll to top option.
+
+Version 1.1.8
+i)  	Minor Issue Fixed 
+
+Version 1.1.9
+i)  	Design By Option is removed 
+
+Version 1.2.0
+i)  	Orderby for slider is fixed
+
+Version 1.2.1
+i)  	Breaking news title is editable 
+ii)		Show Hide Category in SLider area
+iii)	Wrapper width fixed to 1200px
+iv)		Demo URL Fixed 
+
+Version 1.2.2
+i)		Breaking news title display is fixed
+ii) 	Minor CSS issues fixed
+
+Version 1.2.3
+i)		Fixed demo URL in readme file
+
+Version 1.2.4
+i)		Tested with latest RC
+
+Version 1.2.5
+i)		Tested with latest version
+
+Version 1.2.6
+i)		Tested with latest RC
+ii)     Added social icon for Instagram
